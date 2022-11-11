@@ -1,2 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Abu Hisham", "BloodTheme")
+
+--Blox Fruit
+local Tab = Window:NewTab("Blox Fruit")
